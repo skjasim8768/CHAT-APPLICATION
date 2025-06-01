@@ -88,6 +88,7 @@ Improve mobile responsiveness.
 This project is a great starting point for learning real-time web applications with Socket.IO and Express. It demonstrates the core concepts of WebSockets in a simple yet functional way. 
 
 #output img
-
+![Image](https://github.com/user-attachments/assets/49b8456a-5a05-4b1a-bc34-3fcceba89de8)
+![Image](https://github.com/user-attachments/assets/db26632d-1a73-436c-9b73-7b03bed68b39)
 
 
